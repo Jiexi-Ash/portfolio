@@ -7,6 +7,12 @@ export default {
       fontFamily: {
         Poppins: ["Poppins", "sans-serif"],
       },
+      backgroundImage: {
+        "hero-image": "url('/public/images/hero-image.png')",
+      },
+      maxWidth: {
+        "8xl": "1440px",
+      },
     },
   },
   plugins: [],
